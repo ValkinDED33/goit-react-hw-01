@@ -2,8 +2,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 10;
-  margin-bottom: 10;
+
+  margin: 20px auto;
 }
 
 .friendList {
